@@ -1,1 +1,1 @@
-# YOLOv26m-Seg Onnx Visualizating
+# YOLOv26m-Seg Onnx Visualizing
